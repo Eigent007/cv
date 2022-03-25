@@ -1,0 +1,25 @@
+
+body{
+  margin: 0;
+}
+h1{
+  margin-top:0;
+}
+.top{
+
+background-color:#E4F9F5;
+
+}
+.middle{
+width: 200px;
+height: 200px;
+background-color: red;
+}
+.bottom{
+width: 200px;
+height: 200px;
+background-color: green;
+}
+span{
+  text-decoration: underline;
+}
