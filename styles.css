@@ -22,10 +22,10 @@ height: 200px;
 background-color: green;
 }
 span{
-  text-decoration: underline;
+text-decoration: underline;
 }
 .top-cloud{
-  position: absolute;
+position: absolute;
 right: 300px;
 top:50px;
 
